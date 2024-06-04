@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Filmes em Serie</string>
+    <string name="user_name">nome de usuario</string>
+    <string name="password">senha</string>
+    <string name="sign_in">Entrar</string>
+    <string name="sign_up">Criar conta</string>
+    <string name="sign_up_title">Cadastre-se</string>
+    <string name="password_confirmation">Confirme a senha</string>
+    <string name="home_title">Home</string>
+    <string name="cartoons">Desenhos</string>
+    <string name="movies">Filmes</string>
+    <string name="animes">Animes</string>
+    <string name="series">Series</string>
+    <string name="select_status">Selecione um estatus</string>
+    <string name="to_create">Criar</string>
+    <string name="to_save">Salvar</string>
+    <string name="Enter_the_username">Digite o nome de usuario</string>
+    <string name="Enter_the_password">Digite a senha</string>
+    <string name="message_error_500">erro não previsto: erro 500</string>
+    <string name="username_not_find">o nome de usuario não exixte</string>
+    <string name="wrong_password">senha errada</string>
+    <string name="the_passwords_are_different">As senhas estão diferentes</string>
+    <string name="The_username_already_exists">O nome de usuario já existe</string>
+    <string name="sing_up">Cadastre-se</string>
+    <string name="cancel">Cancelar</string>
+    <string name="enter_name">Digite o nome do %1$s</string>
+    <string name="enter_score">Digite a nota</string>
+    <string name="ok">OK</string>
+    <string name="item_created_with_success">Item criado com sucesso</string>
+    <string name="item_updated_successfully">Item atualizado com sucesso</string>
+</resources>
